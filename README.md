@@ -33,7 +33,7 @@ The interactive Tableau dashboard visualizes:
 - Enhancing **storytelling through data**
 
 ## 🔗 Live Dashboard
-[View the Interactive Dashboard](https://lnkd.in/dKBitBKC)
+[View the Interactive Dashboard](https://public.tableau.com/app/profile/sakshi.ankleshwariya/viz/Hollywoodmostprofitablestories_17493932928280/Dashboard1)
 
 ## 💻 How to Use
 1. Open the live dashboard link above.
